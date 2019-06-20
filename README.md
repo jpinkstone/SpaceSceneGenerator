@@ -19,8 +19,8 @@ The program was created in Unity and all project files are in the repository. Pl
 
 Currently the program runs on Windows and MacOS operating systems. Please download the correct version for your OS.
 
- - Windows: Download the EXE format here <a href="https://github.com/jpinkstone/SpaceSceneGenerator/SpaceSceneGenerator.exe" target="_blank">`SpaceSceneGenerator.exe`</a>
-  - MacOS: Download the DMG format here <a href="https://github.com/jpinkstone/SpaceSceneGenerator/SpaceSceneGenerator.dmg" target="_blank">`SpaceSceneGenerator.dmg`</a>
+ - Windows: Download the EXE format here <a href="https://github.com/jpinkstone/SpaceSceneGenerator/blob/master/ SpaceSceneGenerator.exe" target="_blank">`SpaceSceneGenerator.exe`</a>
+  - MacOS: Download the DMG format here <a href="https://github.com/jpinkstone/SpaceSceneGenerator/blob/master/SpaceSceneGenerator.dmg" target="_blank">`SpaceSceneGenerator.dmg`</a>
 
 ---
 
