@@ -1,5 +1,5 @@
 # SpaceSceneGenerator
-This program randomly creates space-like scenes that can be downloaded as desktop background images. Every render is completely unique and different, allowing for interesting designs.
+This program randomly creates space-like scenes that can be downloaded as desktop background images. Every render is completely unique and different, allowing for interesting designs. This is a personal project of mine, completed with a friend. 
 
 The program was created in Unity and all project files are in the repository. Please feel free to pull the Unity files and add/edit the program!
 
